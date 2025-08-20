@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+segmentation-models-pytorch
+git+https://github.com/albumentations-team/albumentations
+tqdm
+seaborn
+opencv-python
+opencv-contrib-python
